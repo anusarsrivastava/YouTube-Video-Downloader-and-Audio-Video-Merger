@@ -2,6 +2,7 @@
 
 # Ignore directories
 _yt_downloaded_videos/
+_yt_required_list/
 
 # Ignore specific files
 .txt
