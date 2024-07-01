@@ -1,14 +1,8 @@
 #List of all the libraries are using
-import pytube  
-from pytube import Channel
-from pytube import Playlist
-from pytube import YouTube
-import csv
-import datetime
-import os
+import csv, datetime, os
 
 #File List
-file_list = ['_yt_bot_playlist.py', '_yt_bot_videos_downloader.py']#, '_yt_audio_list_gen.py', '_audio_video_merger.py']
+file_list = ['_yt_bot_playlist.py', '_yt_bot_videos_downloader.py', '_yt_audio_list_gen.py', '_audio_video_merger.py']
 
 #Function for executing the URLs
 def _auto_run_url():
