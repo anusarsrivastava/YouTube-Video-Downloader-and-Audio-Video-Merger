@@ -1,0 +1,7 @@
+# Ignore compiled binaries
+
+# Ignore directories
+_yt_downloaded_videos/
+
+# Ignore specific files
+.txt
