@@ -3,6 +3,8 @@
 # Ignore directories
 _yt_downloaded_videos/
 _yt_required_list/
+_yt_reports_main/
+_yt_reports/
 
 # Ignore specific files
 .txt
