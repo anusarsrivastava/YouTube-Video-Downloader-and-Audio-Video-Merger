@@ -28,4 +28,4 @@ This script lets you download a YouTube video at the highest quality and merge t
    
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
-"# YouTube-Video-Downloader-and-Audio-Video-Merger-main" 
+"# YouTube-Video-Downloader-and-Audio-Video-Merger" 
